@@ -4,7 +4,7 @@
   
   <div>
   <p>
-  Desenvolvedor Front-End Jr e estudante de Desenvolvimento Web na Trybe | Full-Stack
+  Desenvolvedor Full Stack 
   </p>
   </div>
   
