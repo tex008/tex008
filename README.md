@@ -89,13 +89,13 @@
     <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
     <span><b>JavaScript ES6, TypeScript, Python, HTML5, CSS3</b> | Interação, estrutura e estilização de aplicativos e APIs web</span>
   </div>
-  <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px"> 
+  <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px; margin-top: 12px"> 
     <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
     <img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
     <img align="center" alt="Material UI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" /> &nbsp;
     <span><b>React, Redux, Material UI</b> | Componentização do Front-end do app, gerenciamento de estado e estilização</span>
   </div>
-  <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px">
+  <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px; margin-top: 12px">
     <img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> &nbsp;
     <img align="center" alt="Sequelize" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> &nbsp;
     <img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> &nbsp;
@@ -103,7 +103,7 @@
     <img align="center" alt="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"> &nbsp;.
     <span><b>Node.js, Sequelize, Docker, MySQL, MongoDB</b> | Criação de APIs, ORM, containers e databases</span>
   </div>
-  <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px">
+  <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px;  margin-top: 12px">
     <img align="center" alt="Mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
     <img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
     <img align="center" alt="React Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
